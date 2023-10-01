@@ -1,0 +1,10 @@
+# Logs #
+**/logs
+**.log
+**.log*
+
+#[SERVER]
+
+server/node_modules
+server/dist
+server/.env
